@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moingeagle-sys&label=Profile%20views&color=0e75b6&style=flat-square" alt="moingeagle-sys" /> </p>
 
-- 🤘 Estoy trabajando en el proyecto **WebWaebi**
+- 🤘 
 
-- 🌱Ahora estoy aprendiendo **Angular, Javascript, Typescript, MySQL, ETC**
+- 🌱Ahora estoy aprendiendo **Javascript, ETC**
 
 - 📫 Aqui te dejo mi correo electronico para cualquier contacto. **moingeagle15@gmail.com**
 
