@@ -1,99 +1,62 @@
-<!-- HEADER CON ANIMACIÓN DE COLA DE COMANDOS -->
+<!-- BANNER SUPERIOR ESTILO CYBERPUNK -->
 <p align="center">
-  <img src="https://github.io⚡%20SYSTEM%20INITIALIZED%20⚡&fontSize=35&fontAlignY=40&animation=twinkling" alt="Banner Top" />
+  <img src="https://github.io⚡%20SYSTEM%20INITIALIZED%20⚡&fontSize=35&animation=twinkling" alt="Banner Top" />
 </p>
 
-<!-- BIENVENIDA ESTILO CONSOLA -->
-<div align="center">
-  <h1>✨ Welcome to my Digital Space ✨</h1>
-  <p><code>⚡ Full Stack Developer in the making // Coffee Investor // Code Artisan ⚡</code></p>
-</div>
-
+<!-- MENSAJE ANIMADO (IMPRESIÓN EN TIEMPO REAL) -->
 <p align="center">
-  <img src="https://demolab.com\;;Building+the+future+of+web\;;Constantly+learning+new+tech\;" alt="Typing SVG" />
+  <img src="https://demolab.com...;" alt="Typing SVG" />
 </p>
 
 ---
 
-<!-- CONTENEDOR DE INFORMACIÓN CON ICONOS NEÓN -->
-## 🔮 <img src="https://giphy.com" width="30"/> System Status
+## 🔮 System Status
 
-- 🛸 **Actualmente explorando:** El desarrollo de arquitecturas escalables y diseño UI/UX de alto impacto.
-- 🚀 **Mi meta actual:** Colaborar en proyectos de código abierto (Open Source) y optimizar rendimiento frontend.
-- 🧠 **Filosofía de código:** *"Si funciona, optimízalo. Si es legible, es perfecto."*
+* 🛸 **Enfoque actual:** Desarrollo de software, optimización de código y diseño de arquitecturas limpias.
+* 🚀 **Meta:** Colaborar en proyectos de impacto y dominar las herramientas modernas del ecosistema IT.
+* 🧠 **Filosofía:** *"Si funciona, muéstralo; si se puede optimizar, hazlo."*
 
 <p align="left">
-  <!-- REDES SOCIALES EN BOTONES GLOW -->
-  <a href="https://linkedin.com" target="_blank"><img src="https://shields.io" alt="LinkedIn" /></a>
-  <a href="mailto:TU_CORREO@GMAIL.COM" target="_blank"><img src="https://shields.io" alt="Email" /></a>
+  <!-- Reemplaza "TU_USUARIO_DE_GITHUB" con tu nombre real de LinkedIn si quieres enlazarlo -->
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
-<!-- SECCIÓN DE TECH STACK CON ICONOS ORIGINALES Y CON COLOR -->
 ## 🛠️ Tech Stack & Cyber-Tools
 
-### 🌐 Frontend & Core Languages
+<!-- ICONOS ORIGINALES CARGADOS DIRECTAMENTE DESDE DEVICON (SIN ENLACES ROTOS) -->
 <p align="left">
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="javascript" width="45" height="45"/>
-  </a>
-  <a href="https://mozilla.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="typescript" width="45" height="45"/>
-  </a>
-  <a href="https://react.dev" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="react" width="45" height="45"/>
-  </a>
-  <a href="https://w3schools.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="css3" width="45" height="45"/>
-  </a>
-  <a href="https://tailwindcss.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="tailwindcss" width="45" height="45"/>
-  </a>
-</p>
-
-### 🗄️ Backend, Databases & Devops
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="nodejs" width="45" height="45"/>
-  </a>
-  <a href="https://python.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="python" width="45" height="45"/>
-  </a>
-  <a href="https://postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="postgresql" width="45" height="45"/>
-  </a>
-  <a href="https://docker.com" target="_blank" rel="noreferrer">
-    <img src="https://githubusercontent.com" alt="docker" width="45" height="45"/>
-  </a>
-  <a href="https://git-scm.com" target="_blank" rel="noreferrer">
-    <img src="https://vectorlogo.zone" alt="git" width="45" height="45"/>
-  </a>
+  <img src="https://jsdelivr.net" alt="JS" width="50" height="50" />&nbsp;
+  <img src="https://jsdelivr.net" alt="TS" width="50" height="50" />&nbsp;
+  <img src="https://jsdelivr.net" alt="React" width="50" height="50" />&nbsp;
+  <img src="https://jsdelivr.net" alt="Node" width="50" height="50" />&nbsp;
+  <img src="https://jsdelivr.net" alt="Python" width="50" height="50" />&nbsp;
+  <img src="https://jsdelivr.net" alt="Docker" width="50" height="50" />&nbsp;
+  <img src="https://jsdelivr.net" alt="Git" width="50" height="50" />
 </p>
 
 ---
 
-<!-- ESTADÍSTICAS GRÁFICAS DE ALTO IMPACTO (TEMA TOKYONIGHT NEÓN) -->
 ## 📊 Matrix Metrics
 
+<!-- CAMBIA "TU_USUARIO_DE_GITHUB" POR TU NOMBRE DE USUARIO REAL EN LAS SIGUIENTES TRES LÍNEAS -->
 <p align="center">
-  <img src="https://vercel.app" alt="Stats" height="160" />
-  <img src="https://vercel.app" alt="Top Langs" height="160" />
+  <img src="https://vercel.app" alt="GitHub Stats" height="170" />
+  <img src="https://vercel.app" alt="Top Languages" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="Streak" width="100%" />
-</p>
-
-<!-- GRÁFICO DINÁMICO DE ACTIVIDAD EN 3D (OPCIONAL) -->
-<p align="center">
-  <img src="https://githubusercontent.com" alt="Snake Game" />
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
 </p>
 
 ---
 
-<!-- FOOTER ANIMADO -->
+<!-- LÍNEA DE CIERRE ESTILO TERMINAL -->
 <p align="center">
   <img src="https://github.io" alt="Banner Bottom" width="100%" />
 </p>
+
 
