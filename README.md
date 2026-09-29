@@ -1,62 +1,193 @@
-<!-- BANNER SUPERIOR ESTILO CYBERPUNK -->
-<p align="center">
-  <img src="https://github.io⚡%20SYSTEM%20INITIALIZED%20⚡&fontSize=35&animation=twinkling" alt="Banner Top" />
-</p>
+<div align="center">
 
-<!-- MENSAJE ANIMADO (IMPRESIÓN EN TIEMPO REAL) -->
-<p align="center">
-  <img src="https://demolab.com...;" alt="Typing SVG" />
-</p>
+# 👋 ¡Hola! Soy **TU_NOMBRE**
 
----
+### 💻 `Developer` • 🚀 `Tech Enthusiast` • 🧠 `Problem Solver`
 
-## 🔮 System Status
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Bienvenido+a+mi+perfil+%F0%9F%91%8B;Construyo+cosas+con+c%C3%B3digo+%F0%9F%92%BB;Siempre+aprendiendo+algo+nuevo+%F0%9F%A7%A0;Turning+ideas+into+code+%F0%9F%9A%80" />
 
-* 🛸 **Enfoque actual:** Desarrollo de software, optimización de código y diseño de arquitecturas limpias.
-* 🚀 **Meta:** Colaborar en proyectos de impacto y dominar las herramientas modernas del ecosistema IT.
-* 🧠 **Filosofía:** *"Si funciona, muéstralo; si se puede optimizar, hazlo."*
+<br>
 
-<p align="left">
-  <!-- Reemplaza "TU_USUARIO_DE_GITHUB" con tu nombre real de LinkedIn si quieres enlazarlo -->
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=00f7ff&style=for-the-badge" />
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack & Cyber-Tools
+## 🧑‍💻 Sobre mí
 
-<!-- ICONOS ORIGINALES CARGADOS DIRECTAMENTE DESDE DEVICON (SIN ENLACES ROTOS) -->
-<p align="left">
-  <img src="https://jsdelivr.net" alt="JS" width="50" height="50" />&nbsp;
-  <img src="https://jsdelivr.net" alt="TS" width="50" height="50" />&nbsp;
-  <img src="https://jsdelivr.net" alt="React" width="50" height="50" />&nbsp;
-  <img src="https://jsdelivr.net" alt="Node" width="50" height="50" />&nbsp;
-  <img src="https://jsdelivr.net" alt="Python" width="50" height="50" />&nbsp;
-  <img src="https://jsdelivr.net" alt="Docker" width="50" height="50" />&nbsp;
-  <img src="https://jsdelivr.net" alt="Git" width="50" height="50" />
-</p>
+```yaml
+name: TU_NOMBRE
+location: Colombia 🇨🇴
+role: Developer / IT
+currently_learning:
+  - Desarrollo Web
+  - Backend
+  - Bases de Datos
+  - Cloud
+  - Inteligencia Artificial
 
----
+interests:
+  - Software Development
+  - Cybersecurity
+  - Automation
+  - UI/UX
+  - Open Source
 
-## 📊 Matrix Metrics
-
-<!-- CAMBIA "TU_USUARIO_DE_GITHUB" POR TU NOMBRE DE USUARIO REAL EN LAS SIGUIENTES TRES LÍNEAS -->
-<p align="center">
-  <img src="https://vercel.app" alt="GitHub Stats" height="170" />
-  <img src="https://vercel.app" alt="Top Languages" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="100%" />
-</p>
+fun_fact: "Un bug puede convertirse en una nueva funcionalidad 😎"
+```
 
 ---
 
-<!-- LÍNEA DE CIERRE ESTILO TERMINAL -->
-<p align="center">
-  <img src="https://github.io" alt="Banner Bottom" width="100%" />
-</p>
+## ⚡ Tecnologías
+
+<div align="center">
+
+### Lenguajes
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,cs,php" />
+
+### Frameworks & herramientas
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,spring,dotnet,git,github,vscode" />
+
+### Bases de datos & Cloud
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,aws,azure,docker" />
+
+</div>
+
+---
+
+## 🚀 Lo que estoy haciendo
+
+<table>
+<tr>
+<td width="50%">
+
+### 💻 Desarrollo
+
+* 🌐 Aplicaciones web
+* 🔌 APIs REST
+* 🗄️ Sistemas con bases de datos
+* 📱 Aplicaciones modernas
+* ⚙️ Automatización
+
+</td>
+
+<td width="50%">
+
+### 🧠 Aprendiendo
+
+* ☁️ Cloud Computing
+* 🤖 Inteligencia Artificial
+* 🔐 Ciberseguridad
+* 🐳 Docker
+* 🧩 Arquitectura de software
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📌 Proyectos destacados
+
+<div align="center">
+
+<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO_1">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPOSITORIO_1&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO_2">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPOSITORIO_2&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Mi actividad
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🐍 Contribuciones
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
+
+</div>
+
+---
+
+## 📈 Actividad reciente
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&area=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+
+</div>
+
+---
+
+# 🌐 Conecta conmigo
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/TU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:TU_EMAIL">
+<img src="https://img.shields.io/badge/Email-00F7FF?style=for-the-badge&logo=gmail&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 "Code. Learn. Build. Repeat."
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7F00FF&height=120&section=footer"/>
+
+</div>
+
 
 
