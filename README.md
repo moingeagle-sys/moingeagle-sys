@@ -17,24 +17,21 @@
 ## 🧑‍💻 Sobre mí
 
 ```yaml
-name: TU_NOMBRE
-location: Colombia 🇨🇴
-role: Developer / IT
-currently_learning:
-  - Desarrollo Web
-  - Backend
-  - Bases de Datos
-  - Cloud
-  - Inteligencia Artificial
+de Colombia 🇨🇴
+mis roles son Developer / IT
+actualmente aprendiendo:
+  - python
+  - analisis y desarrollo de software
+  - Django
 
-interests:
-  - Software Development
-  - Cybersecurity
-  - Automation
+mis intereses:
+  - desarrollo de software
+  - Ciberseguridad
+  - automatizacion
   - UI/UX
   - Open Source
 
-fun_fact: "Un bug puede convertirse en una nueva funcionalidad 😎"
+"Un bug puede convertirse en una nueva funcionalidad 😎"
 ```
 
 ---
