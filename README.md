@@ -88,69 +88,11 @@ mis intereses:
 
 ---
 
-## 📌 Proyectos destacados
-
-<div align="center">
-
-<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO_1">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPOSITORIO_1&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/TU_USUARIO/TU_REPOSITORIO_2">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=TU_REPOSITORIO_2&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 🔥 Mi actividad
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribuciones
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 📈 Actividad reciente
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true&area=true" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
 
 </div>
 
