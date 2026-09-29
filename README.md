@@ -160,11 +160,11 @@ mis intereses:
 
 <div align="center">
 
-<a href="[https://www.linkedin.com/in/TU_LINKEDIN](https://www.linkedin.com/in/mario-steven-galindo-255238208/)">
+<a href="https://www.linkedin.com/in/mario-steven-galindo-255238208/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="[https://github.com/TU_USUARIO](https://github.com/moingeagle-sys)">
+<a href="https://github.com/moingeagle-sys">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
